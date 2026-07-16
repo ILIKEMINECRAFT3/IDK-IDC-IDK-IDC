@@ -1,0 +1,24 @@
+h1{
+ text-align: center;
+ background-color: chocolate;
+border:2px solid black;
+}
+
+body{
+    background-color: rgb(120, 1, 124) ;
+}
+
+nav a{
+    border : 2px solid slateblue
+    margin: 20px;
+    padding: 15px;
+}
+
+img{
+  height: 200px;
+ width: 300px;
+}
+nav{
+    margin: 20px;
+    text-align: center;
+}
